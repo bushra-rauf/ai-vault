@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"15e1d0e64860eaac","x":-220,"y":-140,"width":794,"height":105,"color":"1","type":"group","label":"card group"},
+		{"id":"69b345b5a3d571be","x":-200,"y":-120,"width":250,"height":60,"type":"text","text":"This is card"},
+		{"id":"1d4e38af56fca027","x":304,"y":-115,"width":250,"height":60,"type":"text","text":"this is another card\n"}
+	],
+	"edges":[
+		{"id":"7cf1dd62bff71b45","fromNode":"69b345b5a3d571be","fromSide":"right","toNode":"1d4e38af56fca027","toSide":"left"}
+	]
+}
