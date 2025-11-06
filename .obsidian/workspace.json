@@ -11,17 +11,14 @@
             "id": "cb441f3e2265af90",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "motorcycle-folder/Untitled.canvas",
-                "viewState": {
-                  "x": 244.97404541015607,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "motorcycle-folder/Motorcycle repair shop notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Motorcycle repair shop notes"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "motorcycle-folder/Untitled.canvas",
+                "file": "motorcycle-folder/Motorcycle repair shop notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Motorcycle repair shop notes"
             }
           },
           {
@@ -116,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "motorcycle-folder/Untitled.canvas",
+                "file": "motorcycle-folder/Motorcycle repair shop notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Motorcycle repair shop notes"
             }
           },
           {
@@ -145,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "motorcycle-folder/Untitled.canvas",
+                "file": "motorcycle-folder/Motorcycle repair shop notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Motorcycle repair shop notes"
             }
           }
         ]
@@ -174,8 +171,8 @@
   },
   "active": "cb441f3e2265af90",
   "lastOpenFiles": [
-    "motorcycle-folder/Motorcycle repair shop notes.md",
     "motorcycle-folder/Untitled.canvas",
+    "motorcycle-folder/Motorcycle repair shop notes.md",
     "motorcycle-folder",
     "Welcome.md"
   ]
